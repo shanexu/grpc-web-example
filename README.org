@@ -1,1 +1,1 @@
-# gRPC web example
+* gRPC web example
